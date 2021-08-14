@@ -13,6 +13,7 @@
 		47607E9626C7677900D147A2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47607E9426C7677900D147A2 /* Main.storyboard */; };
 		47607E9826C7677A00D147A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 47607E9726C7677A00D147A2 /* Assets.xcassets */; };
 		47607E9B26C7677A00D147A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47607E9926C7677A00D147A2 /* LaunchScreen.storyboard */; };
+		47607EA326C7F8E400D147A2 /* htmlView.html in Resources */ = {isa = PBXBuildFile; fileRef = 47607EA226C7F8E400D147A2 /* htmlView.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		47607E9726C7677A00D147A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		47607E9A26C7677A00D147A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		47607E9C26C7677A00D147A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		47607EA226C7F8E400D147A2 /* htmlView.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = htmlView.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				47607E8E26C7677900D147A2 /* AppDelegate.swift */,
 				47607E9026C7677900D147A2 /* SceneDelegate.swift */,
 				47607E9226C7677900D147A2 /* ViewController.swift */,
+				47607EA226C7F8E400D147A2 /* htmlView.html */,
 				47607E9426C7677900D147A2 /* Main.storyboard */,
 				47607E9726C7677A00D147A2 /* Assets.xcassets */,
 				47607E9926C7677A00D147A2 /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47607EA326C7F8E400D147A2 /* htmlView.html in Resources */,
 				47607E9B26C7677A00D147A2 /* LaunchScreen.storyboard in Resources */,
 				47607E9826C7677A00D147A2 /* Assets.xcassets in Resources */,
 				47607E9626C7677900D147A2 /* Main.storyboard in Resources */,
